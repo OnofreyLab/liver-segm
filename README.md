@@ -1,6 +1,18 @@
 # Improved performance and consistency of deep learning 3D liver segmentation with heterogenous cancer stages in magnetic resonance imaging
 
-Moritz Gross<sup>1, 2</sup>, M.S.; Michael Spektor<sup>1</sup>, M.D.; Ariel Jaffe<sup>3</sup>, M.D.; Ahmet S. Kucukkaya<sup>1,2</sup>, M.S.; Simon Iseke1,<sup>4</sup>, M.S.; Stefan P. Haider<sup>1,5</sup>, M.S.; Mario Strazzabosco<sup>3</sup>, M.D., Ph.D.; Julius Chapiro<sup>1</sup>, M.D., Ph.D.; John A. Onofrey<sup>1,6</sup>, Ph.D.
+Moritz Gross<sup>1, 2</sup>, M.S.; Michael Spektor<sup>1</sup>, M.D.; Ariel Jaffe<sup>3</sup>, M.D.; Ahmet S. Kucukkaya<sup>1,2</sup>, M.S.; Simon Iseke<sup>1,4</sup>, M.S.; Stefan P. Haider<sup>1,5</sup>, M.S.; Mario Strazzabosco<sup>3</sup>, M.D., Ph.D.; Julius Chapiro<sup>1</sup>, M.D., Ph.D.; John A. Onofrey<sup>1,6</sup>, Ph.D.
+
+<sup>1</sup>	Department of Radiology and Biomedical Imaging, Yale University School of Medicine, New Haven, Connecticut, United States of America 
+
+<sup>2</sup>	Charité Center for Diagnostic and Interventional Radiology, Charité - Universitätsmedizin Berlin, Berlin, Germany
+
+<sup>3</sup>	Department of Internal Medicine, Yale University School of Medicine, New Haven, Connecticut, United States of America
+
+<sup>4</sup>	Department of Diagnostic and Interventional Radiology, Pediatric Radiology and Neuroradiology, Rostock University Medical Center, Rostock, Germany
+
+<sup>5</sup> 	Department of Otorhinolaryngology, University Hospital of Ludwig Maximilians Universität München, Munich, Germany
+
+<sup>6</sup>  Department of Urology, Yale University School of Medicine, New Haven, Connecticut, United States of America
 
 ## Abstract
 
