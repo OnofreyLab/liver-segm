@@ -1,6 +1,6 @@
 # Improved performance and consistency of deep learning 3D liver segmentation with heterogenous cancer stages in magnetic resonance imaging
 
-Moritz Gross1, 2, M.S.; Michael Spektor1, M.D.; Ariel Jaffe3, M.D.; Ahmet S. Kucukkaya1,2, M.S.; Simon Iseke1,4, M.S.; Stefan P. Haider1,5, M.S.; Mario Strazzabosco3, M.D., Ph.D.; Julius Chapiro1, M.D., Ph.D.; John A. Onofrey1,6, Ph.D.
+Moritz Gross<sup>1, 2</sup>, M.S.; Michael Spektor<sup>1</sup>, M.D.; Ariel Jaffe<sup>3</sup>, M.D.; Ahmet S. Kucukkaya<sup>1,2</sup>, M.S.; Simon Iseke1,<sup>4</sup>, M.S.; Stefan P. Haider<sup>1,5</sup>, M.S.; Mario Strazzabosco<sup>3</sup>, M.D., Ph.D.; Julius Chapiro<sup>1</sup>, M.D., Ph.D.; John A. Onofrey<sup>1,6</sup>, Ph.D.
 
 ## Abstract
 
